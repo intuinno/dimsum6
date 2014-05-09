@@ -1,0 +1,5 @@
+{
+  "firebase": "dimsum6",
+  "public": "app",
+  "rules": "config/security-rules.json"
+}
